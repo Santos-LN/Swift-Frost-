@@ -47,5 +47,5 @@ O painel do Power BI está conectado diretamente ao banco de dados MySQL, sem us
 Feito com dedicação, foco em dados limpos e visual dinâmico.  
 
 **Dashboard**
-https://abrir.link/aEalb
+https:  https://shre.ink/5men
 
